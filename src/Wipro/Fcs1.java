@@ -1,6 +1,6 @@
 package Wipro;
 
-//Enter only posititve value and short value
+//Enter only positive value and short value
 import java.util.*;
 public class Fcs1 {
     public static void main(String[] args) {
